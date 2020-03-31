@@ -2,7 +2,7 @@
   "name": "phaser_tutorial",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server/index.js",
   "dependencies": {
     "canvas": "^2.6.1",
     "datauri": "^2.0.0",
