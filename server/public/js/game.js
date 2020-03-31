@@ -80,10 +80,8 @@ function create() {
 
     mainButton.setText(result.result + ' Play again?');
 
-    // self.players.getChildren().forEach(function (player) {self.players.remove(player);});
     self.players.clear(true, true);
-    // delete self.players;
-
+    
     self.star.destroy();
     delete self.star;
   })
